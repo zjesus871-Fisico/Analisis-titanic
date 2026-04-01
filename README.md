@@ -1,17 +1,17 @@
-# 📊 Análisis de supervivencia en el Titanic
+#  Análisis de supervivencia en el Titanic
 
 Proyecto de análisis de datos utilizando Python y pandas.
 
-## 🔍 Objetivo
+## Objetivo
 Analizar los factores que influyeron en la supervivencia de los pasajeros del Titanic.
 
-## 🧰 Herramientas
+## Herramientas
 - Python  
 - pandas  
 
-## 📈 Resultados
+## Resultados
 - La mayoría de los pasajeros no sobrevivió  
 - Las mujeres tuvieron una probabilidad de supervivencia significativamente mayor que los hombres  
 
-## 🚀 Autor
+##  Autor
 Jesús Emmanuel Zárate Díaz
